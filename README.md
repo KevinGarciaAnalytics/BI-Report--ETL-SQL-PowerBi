@@ -3,6 +3,7 @@ Business intelligence report completed during spring semester using an ETL proce
 
 #Project Overview
 This project demonstrates the design and development of a Business Intelligence reporting solution using Power BI. The dashboard transforms business data into interactive visualizations that support reporting, performance monitoring, and data-driven decision-making.
+
 #Project Objective
 Develop an interactive Business Intelligence dashboard that enables users to analyze business performance through key metrics, trend analysis, and dynamic reporting.
 
