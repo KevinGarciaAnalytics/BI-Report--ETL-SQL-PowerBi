@@ -1,4 +1,4 @@
-#BI Report--ETL-SQL-PowerBi
+#BI Report--ETL-SQL-PowerBI
 ## Project Overview
 This project demonstrates the development of an interactive Business Intelligence dashboard using Power BI to analyze business data and support data-driven decision-making. The report combines KPI reporting, data visualization, and interactive filtering to provide meaningful insights into business performance.
 
