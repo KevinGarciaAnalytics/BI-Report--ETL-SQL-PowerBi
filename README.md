@@ -1,33 +1,30 @@
 #BI Report--ETL-SQL-PowerBi
-Business intelligence report completed during spring semester using an ETL process from SQL Server to PowerBI.
+## Project Overview
+This project demonstrates the development of an interactive Business Intelligence dashboard using Power BI to analyze business data and support data-driven decision-making. The report combines KPI reporting, data visualization, and interactive filtering to provide meaningful insights into business performance.
 
-#Project Overview
-This project demonstrates the design and development of a Business Intelligence reporting solution using Power BI. The dashboard transforms business data into interactive visualizations that support reporting, performance monitoring, and data-driven decision-making.
-
-#Project Objective
-Develop an interactive Business Intelligence dashboard that enables users to analyze business performance through key metrics, trend analysis, and dynamic reporting.
-
-##Tools & Technologies
-Power BI
-Microsoft Excel
-SQL Server
-Data Modeling
-DAX (Data Analysis Expressions)
-Business Intelligence Reporting
-
+## Project Objective
+Develop a Business Intelligence report that allows users to monitor key performance indicators, analyze trends, and explore business data through interactive dashboards.
+## Tools & Technologies
+- Power BI
+- Microsoft Excel
+- SQL Server
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Business Intelligence Reporting
+- 
 ## Dashboard Features
-Interactive KPI dashboards
-Dynamic filtering with slicers
-Time-based reporting and trend analysis
-Product, customer, and sales performance visualizations
-Drill-down capabilities for deeper analysis
+- Interactive KPI cards
+- Dynamic slicers and filters
+- Time-based trend analysis
+- Sales, customer, and performance reporting
+- Interactive visualizations for business analysis
 
-##Skills Demonstrated
-Business Intelligence Reporting
-Dashboard Development
-Data Modeling
-DAX Calculations
-KPI Development
-Data Visualization
-Performance Reporting
-Business Analytics
+## Skills Demonstrated
+- Business Intelligence
+- Dashboard Development
+- Data Modeling
+- DAX Calculations
+- KPI Reporting
+- Data Visualization
+- Business Analytics
+- Performance Monitoring
